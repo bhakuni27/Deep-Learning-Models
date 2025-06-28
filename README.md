@@ -6,8 +6,6 @@ This repository is a work-in-progress collection of example implementations of f
 - A mini README explaining the model
 - Relevant datasets
 
----
-
 ## Planned Models
 
 - [ ] ANN (Artificial Neural Network)
@@ -16,8 +14,6 @@ This repository is a work-in-progress collection of example implementations of f
 - [ ] SOM (Self-Organizing Map)
 - [ ] RBM (Restricted Boltzmann Machine)
 - [ ] AutoEncoder
-
----
 
 ## Getting Started
 
