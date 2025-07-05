@@ -30,3 +30,6 @@ pip install tensorflow scikit-learn numpy matplotlib seaborn
 ```
 > **NOTE:** No dataset download is required as **Fashion MNIST** is built into TensorFlow.
 
+## Conclusion
+
+The CNN model effectively captured spatial patterns in grayscale images, achieving **91% accuracy** on test data and demonstrating strong generalization across most categories. Some confusion remains among visually similar classes, indicating room for improvement with deeper architectures or data augmentation.
