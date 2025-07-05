@@ -9,7 +9,7 @@ This repository is a work-in-progress collection of example implementations of f
 ## Planned Models
 
 - [x] ANN (Artificial Neural Network)
-- [ ] CNN (Convolutional Neural Network)
+- [x] CNN (Convolutional Neural Network)
 - [ ] RNN (Recurrent Neural Network)
 - [ ] SOM (Self-Organizing Map)
 - [ ] RBM (Restricted Boltzmann Machine)
