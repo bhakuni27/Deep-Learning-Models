@@ -19,7 +19,6 @@ Ensure you have **Python 3** and **pip** installed. You can download Python from
 To run this notebook, you'll need the following libraries:
 - tensorflow
 - yfinance
-- pandas
 - numpy
 - matplotlib
 - seaborn
@@ -27,6 +26,6 @@ To run this notebook, you'll need the following libraries:
 
 To install them, run:
 ```
-pip install tensorflow yfinance pandas numpy matplotlib seaborn scikit-learn
+pip install tensorflow yfinance numpy matplotlib seaborn scikit-learn
 ```
 > NOTE: The dataset will be fetched using the `yfinance` API, no manual download required.
