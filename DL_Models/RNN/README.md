@@ -35,4 +35,4 @@ pip install tensorflow yfinance numpy matplotlib seaborn scikit-learn
 The RNN model effectively captured temporal patterns in historical stock data, learning to predict **next-day closing price trends** based on the **past 60 days**. While it does not replicate exact prices, it tracks **directional movement well**, making it useful for trend-based analysis. Some deviation remains during periods of high volatility, suggesting potential improvements through additional features or more complex architectures.
 
 Below is a plot comparing the actual and predicted closing prices for Apple Inc. (AAPL):
-![Actual vs Predicted Closing Prices](result\rnn_prediction.png)
+![Actual vs Predicted Closing Prices](result/rnn_prediction.png)
