@@ -18,13 +18,19 @@ Ensure you have **Python 3** and **pip** installed. You can download Python from
 
 To run this notebook, you'll need the following libraries:
 - minisom
-- numpy
+- pandas
 - matplotlib
 - seaborn
 - scikit-learn
 
 To install them, run:
 ```
-pip install minisom numpy matplotlib seaborn scikit-learn
+pip install minisom pandas matplotlib seaborn scikit-learn
 ```
 > NOTE: No dataset download is required as the **Wine dataset** is available via `sklearn.datasets`.
+
+## Conclusion
+
+The Self-Organizing Map (SOM) model successfully revealed meaningful patterns in the Wine dataset by organizing samples based on their chemical properties. Through the U-Matrix visualization, it clearly separated different wine classes and highlighted distinct cluster boundaries. This demonstrates SOM’s effectiveness in discovering structure in high-dimensional data without the use of labeled outputs.
+
+![SOM U-Matrix](result/u-matrix.png)
