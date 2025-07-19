@@ -11,7 +11,7 @@ This repository is a work-in-progress collection of example implementations of f
 - [x] ANN (Artificial Neural Network)
 - [x] CNN (Convolutional Neural Network)
 - [x] RNN (Recurrent Neural Network)
-- [ ] SOM (Self-Organizing Map)
+- [x] SOM (Self-Organizing Map)
 - [ ] RBM (Restricted Boltzmann Machine)
 - [ ] AutoEncoder
 
