@@ -14,7 +14,7 @@ The goal of this notebook is to develop an **RNN-based stock price prediction mo
 
 ## Prerequisites
 
-Ensure you have **Python 3** and **pip** installed. You can download Python from python.org.
+Ensure you have **Python 3** and **pip** installed. If not, you can download Python from [python.org](https://www.python.org/).
 
 To run this notebook, you'll need the following libraries:
 - tensorflow
