@@ -21,9 +21,14 @@ To run this notebook, you'll need the following libraries:
 - numpy
 - torch
 - matplotlib
+- seaborn
 - scikit-learn
 
 To install them, run:
 ```
-pip install pandas numpy torch matplotlib scikit-learn
+pip install pandas numpy torch matplotlib seaborn scikit-learn
 ```
+
+## Conclusion
+
+The RBM model was able to capture meaningful patterns in user–item interactions from the MovieLens dataset and achieved solid classification performance with an **AUC of 0.73**. While not perfect, the model demonstrates its ability to reconstruct user preferences and provide a foundation for building recommendation systems. Future improvements could include deeper architectures, hyperparameter tuning, or integrating additional metadata such as genres or user demographics.
