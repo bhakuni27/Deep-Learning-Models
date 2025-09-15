@@ -12,7 +12,7 @@ This repository is a work-in-progress collection of example implementations of f
 - [x] CNN (Convolutional Neural Network)
 - [x] RNN (Recurrent Neural Network)
 - [x] SOM (Self-Organizing Map)
-- [ ] RBM (Restricted Boltzmann Machine)
+- [x] RBM (Restricted Boltzmann Machine)
 - [ ] AutoEncoder
 
 ## Getting Started
