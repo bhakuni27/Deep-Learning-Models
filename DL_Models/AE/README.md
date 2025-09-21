@@ -12,10 +12,7 @@ Autoencoders are widely used for:
 - **Denoising and data compression**, by reconstructing clean inputs from noisy data  
 - **Pretraining and representation learning**, to initialize deeper architectures  
 
-This notebook demonstrates how to use a dense AutoEncoder in **PyTorch** to detect fraudulent transactions in the **Credit Card Fraud** dataset. The model is trained only on normal transactions, and unusually high reconstruction errors are used to flag anomalies. Performance is evaluated with ROC-AUC, Precision-Recall, and a confusion matrix, alongside visualizations of error distributions and latent-space structure.
-
-
-
+This notebook demonstrates how to use a dense AutoEncoder in **PyTorch** to detect fraudulent transactions in the **Credit Card Fraud** dataset. The model is trained only on normal transactions, and unusually high reconstruction errors are used to flag anomalies. Performance is evaluated using ROC-AUC, a classification report, and a confusion matrix, with additional visualization through the ROC curve.
 
 ## Prerequisites
 
