@@ -32,3 +32,14 @@ Install with:
 pip install pandas numpy torch scikit-learn matplotlib seaborn
 ```
 > **NOTE:** The dataset `creditcard.csv` is available from Kaggle [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). Download and place it in the `data` folder before running the notebook.
+
+## Conclusion
+
+The AutoEncoder achieved strong fraud detection performance on the **Credit Card Fraud** dataset:  
+
+- **AUC:** 0.954, showing excellent separation between fraud and non-fraud.  
+- **Accuracy:** 96% overall.  
+- **Recall (Fraud class):** 87%, successfully detecting most fraudulent cases.  
+- **Precision (Fraud class):** 16%, indicating many false positives.  
+
+While the model is highly effective at catching fraud, its low precision shows it raises many false alarms. A common trade-off in anomaly detection where minimizing missed fraud is often prioritized.  
