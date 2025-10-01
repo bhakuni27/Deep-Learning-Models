@@ -9,12 +9,12 @@ The goal of this project is to provide clear, hands-on examples of classic deep 
 
 ## Implemented Models
 
-- **Artificial Neural Network (ANN)** – basic feedforward classification  
-- **Convolutional Neural Network (CNN)** – image recognition and feature extraction  
-- **Recurrent Neural Network (RNN)** – sequence modeling (e.g., text, time series)  
-- **Self-Organizing Map (SOM)** – unsupervised clustering and visualization  
-- **Restricted Boltzmann Machine (RBM)** – collaborative filtering for recommendations  
-- **AutoEncoder (AE)** – anomaly detection using reconstruction error  
+- **Artificial Neural Network (ANN)** – customer churn prediction
+- **Convolutional Neural Network (CNN)** – image classification on Fashion MNIST
+- **Recurrent Neural Network (RNN)** – stock price forecasting
+- **Self-Organizing Map (SOM)** – unsupervised clustering on the Wine dataset
+- **Restricted Boltzmann Machine (RBM)** – movie recommendation system
+- **AutoEncoder (AE)** – anomaly detection in credit card fraud
 
 ## Repository Structure
 ```
