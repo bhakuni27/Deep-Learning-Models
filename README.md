@@ -18,40 +18,41 @@ The goal of this project is to provide clear, hands-on examples of classic deep 
 
 ## Repository Structure
 ```
-DL_Models/
-│
-├── AE/
-│ ├── data/
-│ ├── ae_notebook.ipynb
-│ └── README.md
-│
-├── ANN/
-│ ├── data/
-│ │ └── Churn_Modelling.csv
-│ ├── ann_notebook.ipynb
-│ └── README.md
-│
-├── CNN/
-│ ├── cnn_notebook.ipynb
-│ └── README.md
-│
-├── RBM/
-│ ├── data/
-│ │ └── u.data
-│ ├── rbm_notebook.ipynb
-│ └── README.md
-│
-├── RNN/
-│ ├── result/
-│ │ └── rnn_prediction.png
-│ ├── rnn_notebook.ipynb
-│ └── README.md
-│
-├── SOM/
-│ ├── result/
-│ │ └── u-matrix.png
-│ ├── som_notebook.ipynb
-│ └── README.md
+Deep-Learning-Models
+├── DL_Models/
+│   │
+│   ├── AE/
+│   │ ├── data/
+│   │ ├── ae_notebook.ipynb
+│   │ └── README.md
+│   │
+│   ├── ANN/
+│   │ ├── data/
+│   │ │ └── Churn_Modelling.csv
+│   │ ├── ann_notebook.ipynb
+│   │ └── README.md
+│   │
+│   ├── CNN/
+│   │ ├── cnn_notebook.ipynb
+│   │ └── README.md
+│   │
+│   ├── RBM/
+│   │ ├── data/
+│   │ │ └── u.data
+│   │ ├── rbm_notebook.ipynb
+│   │ └── README.md
+│   │
+│   ├── RNN/
+│   │ ├── result/
+│   │ │ └── rnn_prediction.png
+│   │ ├── rnn_notebook.ipynb
+│   │ └── README.md
+│   │
+│   └── SOM/
+│     ├── result/
+│     │ └── u-matrix.png
+│     ├── som_notebook.ipynb
+│     └── README.md
 │
 └── README.md ← main repository README (this file)
 ```
